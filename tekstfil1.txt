@@ -3,3 +3,6 @@ Dette er den første fila som jeg laster opp på github.
 Litt rart at andre kan lese dette, kanskje man må passe fingrene sine her.
 
 Nå editerer jeg tekst på testbranch....tror jeg
+
+legger til noe i test2
+
